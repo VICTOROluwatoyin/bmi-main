@@ -5,4 +5,4 @@ streamlit-option-menu==0.3.2
 pandas==2.0.3 
 matplotlib==3.7.1
 seaborn==0.12.2
-sklearn==0.0.post5
+scikit-learn==1.4.2
